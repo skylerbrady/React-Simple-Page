@@ -1,0 +1,29 @@
+.App {
+    text-align: center;
+}
+
+.App-header {
+    margin: 20px;
+    background-color: rgba(75, 32, 35, 0.938);
+    height: 50px;
+    padding: 20px;
+    color: white;
+}
+
+.navList {
+    list-style: none;
+}
+
+li {
+    display: inline;
+    padding: 50px;
+    margin: 60px;
+}
+
+
+/* .navDiv {
+    width: 69%;
+    border-bottom: solid 5px rgb(101, 12, 143);
+    padding: 10px;
+    margin: 1px 174px;
+} */

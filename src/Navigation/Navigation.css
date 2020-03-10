@@ -1,0 +1,21 @@
+.navList {
+    list-style: none;
+}
+
+li {
+    display: inline;
+    padding: 50px;
+    margin: 60px;
+}
+
+.navDiv {
+    width: 84%;
+    border-bottom: solid 2px rgb(6, 0, 8);
+    padding: 10px;
+    margin: 1px 84px;
+}
+
+li:hover {
+    color: rgb(75, 32, 35);
+    cursor: pointer;
+}

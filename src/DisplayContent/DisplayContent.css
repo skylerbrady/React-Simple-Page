@@ -1,0 +1,17 @@
+.contentStyle {
+    width: 927px;
+    height: 300px;
+    border: solid 7px rgb(75, 32, 35);
+    margin: 25px 160px;
+    padding: 20px;
+    box-shadow: 20px 15px #4724249c
+}
+
+.show {
+    background-color: #8E7978;
+    width: 300px;
+    height: 104px;
+    margin: 53px 291px;
+    padding: 20px;
+    color: white;
+}
